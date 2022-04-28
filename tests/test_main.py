@@ -3,4 +3,4 @@ def test_capital_case():
 
 
 def test_lower_case():
-    assert 'test'.upper == 'TEST'
+    assert 'test'.upper() == 'TEST'
